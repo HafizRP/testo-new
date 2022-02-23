@@ -1,2 +1,6 @@
 Cuma rencana dari branch utama
 Padahal cuma kosong aja
+
+
+1. Bikin website dengan API lengkap
+2. Bikin web app dengan heroku
