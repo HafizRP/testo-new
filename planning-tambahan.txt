@@ -3,4 +3,7 @@ Padahal cuma kosong aja
 
 
 1. Bikin website dengan API lengkap
+  - Menggunakan mysql
+  - Menggunakan Node JS
+  - Menggunakan Express JS
 2. Bikin web app dengan heroku
