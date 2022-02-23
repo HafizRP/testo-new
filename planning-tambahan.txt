@@ -3,4 +3,8 @@ Padahal cuma kosong aja
 
 
 1. Bikin website dengan API lengkap
+  - menggunakan MongoDB
+  - Express JS
+  - Node JS
+  - Vue JS
 2. Bikin web app dengan heroku
